@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = '昂信嵌入式 Linux 安装使用手册'
+project = u'昂信嵌入式 Linux 安装使用手册'
 copyright = '2014, EMSYM Co'
 
 # The version info for the project you're documenting, acts as replacement for
