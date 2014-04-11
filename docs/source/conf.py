@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ï»¿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
 # Linux Manual documentation build configuration file, created by
@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = '°ºÐÅÇ¶ÈëÊ½ Linux'
+project = 'æ˜‚ä¿¡ Linux'
 copyright = '2014, EMSYM Co'
 
 # The version info for the project you're documenting, acts as replacement for
