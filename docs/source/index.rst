@@ -17,6 +17,7 @@ Contents:
    usb
    software
    network
+   develop
    qt
    diy
    
