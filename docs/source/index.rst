@@ -18,7 +18,7 @@ Contents:
    software
    network
    develop
-   qt
+.. qt
    diy
    
 

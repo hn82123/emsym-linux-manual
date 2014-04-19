@@ -12,3 +12,12 @@
 		$ export
 		
 #. 编译命令 arm-poky-linux-gnueabi-gcc		
+
+
+编译Qt程序
+-----------------
+确保已安装SDK，然后执行 ::
+
+	$ source /install_path/environment-setup-ARCH-poky-linux-gnueabi
+	$ qmake PROJECT.pro
+	$ make
