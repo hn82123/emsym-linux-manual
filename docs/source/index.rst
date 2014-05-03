@@ -19,7 +19,7 @@ Contents:
    network
    develop
    diy
-.. qt   
+
 
 
 
